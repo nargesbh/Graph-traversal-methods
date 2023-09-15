@@ -1,5 +1,5 @@
 # Graph Algorithms in C++
-![logo](Graph.png)
+![logo](travers.gif)
 ## Introduction
 
 This repository houses the implementation of two fundamental graph traversal algorithms: Breadth-First Search (BFS) and Depth-First Search (DFS), programmed in C++. These algorithms are vital tools in the realm of computer science and have applications in various domains, including data analysis, artificial intelligence, and game development.
